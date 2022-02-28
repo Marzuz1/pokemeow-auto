@@ -5,7 +5,7 @@ This is against TOS discord
 Use at your own risk !
 
 # How To Use
-Download and use any IDE Python to run
+Download and use any Python IDE  to run
 
 
 
